@@ -1,5 +1,4 @@
 const Sudeep=()=>{
     document.write('Hello Sudeep');
 }
-
-const a=10;
+const a = 20
