@@ -7,3 +7,4 @@ const apu = {
 }
 apu.college.faculty = "Computer"
 console.log(apu)
+const a = 20
