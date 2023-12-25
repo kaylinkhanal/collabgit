@@ -1,7 +1,7 @@
 const user = {
   name: "manila",
   address: "lalitpur",
- };
+};
 
 const zip = {
   code: 555,
@@ -10,4 +10,5 @@ const zip = {
 const combinedObject = { ...user, ...zip };
 
 console.log(combinedObject);
-const a=20;
+
+const a = 40;
